@@ -1,0 +1,19 @@
+h1 {
+    color: blueviolet;
+}
+h2 {
+    font-style: italic;
+    color:pink
+}
+bio {background-color: dark;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+body {
+    color:rgb(80, 249, 255);
+    text-indent: 0pt;
+    background-image: image(x-special/nautilus-clipboard
+    copy
+    file:///home/naima/Pictures/Screenshot%20from%202020-07-08%2020-33-11.png
+    );
+}
